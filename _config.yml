@@ -1,7 +1,7 @@
 name: Learning Perspective
 favicon: null
-layout_spectrum: 0.5103788480628282
-typography_spectrum: 0.16944254306145012
+layout_spectrum: 1
+typography_spectrum: 0.05833
 title: Learning Perspective
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.20236971089616418
-  lightness: 0.809182739816606
-  saturation: 0.0853124491404742
-  rhythmicContrast: 0.12978936778381467
+    - '#fefefe'
+    - '#f2cb6e'
+    - '#dd7820'
+    - '#20938a'
+    - '#030d0a'
+  brandStrength: 0.5
+  lightness: 0.8125
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
